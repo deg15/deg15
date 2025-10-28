@@ -2,7 +2,6 @@
 
 ![1731583146931](https://github.com/user-attachments/assets/80795f3d-37f6-4d0b-8926-56422bcf4f86)
 
-Hello, My name is David Egea. I am from Cartagena, Spain. 
 
 <!--
 **deg15/deg15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
